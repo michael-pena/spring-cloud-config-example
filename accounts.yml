@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Banking accounts REST API - Dev"
+  message: "Banking accounts REST API - Dev - test refresh"
   contactDetails:
     name: "Michael Pena - Developer"
     email: "test@gmail.com"
